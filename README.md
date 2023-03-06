@@ -31,4 +31,5 @@ Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&ut
 Courtesy of [Vikas Rai](https://github.com/raiv200)
 
 
-Quaquer coisa editado.
+Quaquer coisa editado novamente com o fix.
+correcao de bugs
