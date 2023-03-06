@@ -32,4 +32,4 @@ Courtesy of [Vikas Rai](https://github.com/raiv200)
 
 
 Quaquer coisa editado novamente com o fix.
-correcao de bugs
+correcao de bugs nova verçao
